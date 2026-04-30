@@ -1,14 +1,14 @@
 # SuperStore-Sales-Analysis
 “End-to-end data analysis project using SQL and Power BI to derive business insights from retail sales data.”
-# 📊 Superstore Sales Analysis Project
+#  Superstore Sales Analysis Project
 
-## 🔍 Project Overview
+## Project Overview
 
 This project analyzes retail sales data to uncover insights on sales performance, profitability, and customer behavior.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * SQL (Data Analysis)
 * Power BI (Dashboard & Visualization)
@@ -16,7 +16,7 @@ This project analyzes retail sales data to uncover insights on sales performance
 
 ---
 
-## 📊 Key Business Questions
+##  Key Business Questions
 
 * Which products generate the highest profit?
 * Which categories are loss-making?
@@ -25,7 +25,7 @@ This project analyzes retail sales data to uncover insights on sales performance
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * Furniture category shows lower profitability despite high sales
 * Technology category contributes the highest profit
@@ -34,7 +34,7 @@ This project analyzes retail sales data to uncover insights on sales performance
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 * KPI Cards (Sales, Profit, Profit Margin)
 * Region-wise performance analysis
@@ -44,13 +44,13 @@ This project analyzes retail sales data to uncover insights on sales performance
 
 ---
 
-## 📸 Dashboard Preview
-<img width="614" height="371" alt="021" src="https://github.com/user-attachments/assets/4e9a9dfe-f5b5-4155-8b0b-a3a7bd8b5a35" />
-<img width="653" height="387" alt="0231" src="https://github.com/user-attachments/assets/ac5978ab-692c-4f64-acc6-c7a223176e91" />
+## Dashboard Preview
+<img width="779" height="474" alt="main" src="https://github.com/user-attachments/assets/18546a65-5107-4c70-8085-4cbf4a9d16d2" />
+
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 * Data → Dataset used for analysis
 * SQL → Queries for data extraction and analysis
@@ -59,6 +59,6 @@ This project analyzes retail sales data to uncover insights on sales performance
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates end-to-end data analysis including data cleaning, SQL querying, and dashboard creation to support business decision-making.
